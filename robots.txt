@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://slushy.mrfluffycloud.xyz/sitemap.xml.gz
